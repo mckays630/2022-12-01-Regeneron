@@ -335,6 +335,14 @@ change the value of `carpentry` to `incubator`.
   <tr>
     <td valign="top">
       <h3>Day 1</h3>
+      <p>Dec 1, 2022 9:00AM - 4:30PM</p>
+      
+      <ul>
+        <li>Room: 32-133</b>
+       <li><b>Prerequisites:</b> No programming experience required</li>
+       <li>Lunch is provided</li>
+       <li>Coffee breaks at 10:30 and 14:30</li>
+      </ul>
       <table class="table table-striped">
         <tr> <td>Before</td> <td><a href="{{ site.pre_survey }}{{ site.github.project_title }}" target="_blank" rel="noopener noreferrer">Pre-workshop survey</a> </td> </tr>
         <tr> <td>09:00</td>  <td>Setup</td>
@@ -347,6 +355,13 @@ change the value of `carpentry` to `incubator`.
   </td>
   <td valign="top">
     <h3>Day 2</h3>
+   <p>Dec 8, 2022 9:00AM - 4:30PM</p>
+    <ul>
+        <li>Room: 34-328</b>
+       <li><b>Prerequisites:</b> No programming experience required</li>
+       <li>Lunch is provided</li>
+       <li>Coffee breaks at 10:30 and 14:30</li>
+      </ul>
     <table class="table table-striped">
       <tr> <td>09:00</td>  <td>Plotting and  Programing in Python part 2</td> </tr>
       <tr> <td>12:00</td>  <td>Lunch break</td> </tr>
