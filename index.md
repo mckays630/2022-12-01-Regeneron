@@ -333,21 +333,19 @@ change the value of `carpentry` to `incubator`.
 
 <table>
   <tr>
-    <td>
+    <td valign="top">
       <h3>Day 1</h3>
       <table class="table table-striped">
         <tr> <td>Before</td> <td><a href="{{ site.pre_survey }}{{ site.github.project_title }}" target="_blank" rel="noopener noreferrer">Pre-workshop survey</a> </td> </tr>
         <tr> <td>09:00</td>  <td>Setup</td>
         <tr> <td>09:30</td>  <td>Automating Tasks with the Unix Shell</td> </tr>
-        <tr> <td>10:30</td>  <td>Morning break</td> </tr>
-        <tr> <td>11:00</td>  <td>Automating Tasks with the Unix Shell (Continued)</td> </tr>
         <tr> <td>12:00</td>  <td>Lunch break</td> </tr>
         <tr> <td>12:30</td>  <td>Plotting and  Programing in Python part 1</td> </tr>
         <tr> <td>16:15</td>  <td>Wrap-up</td> </tr>
         <tr> <td>16:30</td>  <td>END</td> </tr>
       </table>
   </td>
-  <td>
+  <td valign="top">
     <h3>Day 2</h3>
     <table class="table table-striped">
       <tr> <td>09:00</td>  <td>Plotting and  Programing in Python part 2</td> </tr>
