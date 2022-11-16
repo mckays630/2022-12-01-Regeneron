@@ -363,9 +363,8 @@ change the value of `carpentry` to `incubator`.
       <tr> <td>09:00</td>  <td>Plotting and  Programing in Python part 2</td> </tr>
       <tr> <td>12:00</td>  <td>Lunch break</td> </tr>
       <tr> <td>12:30</td>  <td>Plotting and  Programing in Python part 3</td> </tr>
-      <tr> <td>16:15</td>  <td>Wrap-up</td> </tr>
-      <tr> <td>16:30</td>  <td><a href="{{ site.post_survey }}{{ site.github.project_title }}" target="_blank" rel="noopener noreferrer">Post-workshop Survey</a></td> </tr>
-      <tr> <td>16:40</td>  <td>END</td> </tr>
+      <tr> <td>16:15</td>  <td>Wrap-up and <a href="{{ site.post_survey }}{{ site.github.project_title }}" target="_blank" rel="noopener noreferrer">Post-workshop Survey</a></td> </tr>
+      <tr> <td>16:30</td>  <td>END</td> </tr>
     </table>
     </td>
   </tr>
