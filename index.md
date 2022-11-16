@@ -331,8 +331,7 @@ change the value of `carpentry` to `incubator`.
 
 <h2 id="schedule">Schedule</h2>
 
-<div class="row">
-  <div class="col-md-6">
+<table><tr><td>
     <h3>Day 1</h3>
     <table class="table table-striped">
       <tr> <td>Before</td> <td><a href="{{ site.pre_survey }}{{ site.github.project_title }}" target="_blank" rel="noopener noreferrer">Pre-workshop survey</a> </td> </tr>
@@ -345,8 +344,8 @@ change the value of `carpentry` to `incubator`.
       <tr> <td>16:15</td>  <td>Wrap-up</td> </tr>
       <tr> <td>16:30</td>  <td>END</td> </tr>
     </table>
-  </div>
-  <div class="col-md-6">
+</td>
+<td>
     <h3>Day 2</h3>
     <table class="table table-striped">
       <tr> <td>09:00</td>  <td>Python part 2</td> </tr>
@@ -356,6 +355,5 @@ change the value of `carpentry` to `incubator`.
       <tr> <td>16:30</td>  <td><a href="{{ site.post_survey }}{{ site.github.project_title }}" target="_blank" rel="noopener noreferrer">Post-workshop Survey</a></td> </tr>
       <tr> <td>16:40</td>  <td>END</td> </tr>
     </table>
-  </div>
-</div>
+  </td></tr></table>
 
