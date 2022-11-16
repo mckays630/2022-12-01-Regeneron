@@ -335,9 +335,8 @@ change the value of `carpentry` to `incubator`.
   <tr>
     <td valign="top">
       <h3>Day 1</h3>
-      <p>Dec 1, 2022 9:00AM - 4:30PM</p>
+      <p>Dec 1, 2022 | 9:00AM - 4:30PM | 32-133</p>
       <ul>
-        <li>Room: 32-133</li>
        <li><b>Prerequisites:</b> No programming experience required</li>
        <li>Lunch is provided</li>
        <li>Coffee breaks at 10:30 and 14:30</li>
@@ -354,9 +353,8 @@ change the value of `carpentry` to `incubator`.
   </td>
   <td valign="top">
     <h3>Day 2</h3>
-   <p>Dec 8, 2022 9:00AM - 4:30PM</p>
+   <p>Dec 8, 2022 | 9:00AM - 4:30PM | 34-328</p>
     <ul>
-        <li>Room: 34-328</li>
        <li><b>Prerequisites:</b> No programming experience required</li>
        <li>Lunch is provided</li>
        <li>Coffee breaks at 10:30 and 14:30</li>
