@@ -331,7 +331,7 @@ change the value of `carpentry` to `incubator`.
 
 <h2 id="schedule">Schedule</h2>
 
-<table>
+<table style="width:95%">
   <tr>
     <td valign="top">
       <h3>Day 1</h3>
@@ -341,7 +341,7 @@ change the value of `carpentry` to `incubator`.
        <li>Lunch is provided</li>
        <li>Coffee breaks at 10:30 and 14:30</li>
       </ul>
-      <table class="table table-striped">
+      <table class="table table-striped" style="width:50%>
         <tr> <td>Before</td> <td><a href="{{ site.pre_survey }}{{ site.github.project_title }}" target="_blank" rel="noopener noreferrer">Pre-workshop survey</a> </td> </tr>
         <tr> <td>09:00</td>  <td>Setup</td>
         <tr> <td>09:30</td>  <td>Automating Tasks with the Unix Shell</td> </tr>
@@ -359,7 +359,7 @@ change the value of `carpentry` to `incubator`.
        <li>Lunch is provided</li>
        <li>Coffee breaks at 10:30 and 14:30</li>
       </ul>
-    <table class="table table-striped">
+    <table class="table table-striped" style="width:50%">
       <tr> <td>09:00</td>  <td>Plotting and  Programing in Python part 2</td> </tr>
       <tr> <td>12:00</td>  <td>Lunch break</td> </tr>
       <tr> <td>12:30</td>  <td>Plotting and  Programing in Python part 3</td> </tr>
