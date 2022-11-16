@@ -333,7 +333,7 @@ change the value of `carpentry` to `incubator`.
 
 <table style="width:95%">
   <tr>
-    <td valign="top">
+    <td>
       <h3>Day 1</h3>
       <p>Dec 1, 2022 | 9:00AM - 4:30PM | 32-133</p>
       <ul>
@@ -351,7 +351,7 @@ change the value of `carpentry` to `incubator`.
         <tr> <td>16:30</td>  <td>END</td> </tr>
       </table>
   </td>
-  <td valign="top">
+  <td>
     <h3>Day 2</h3>
    <p>Dec 8, 2022 | 9:00AM - 4:30PM | 34-328</p>
     <ul>
