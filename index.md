@@ -327,4 +327,4 @@ change the value of `carpentry` to `incubator`.
 
 <hr/>
 
-
+{% include swc/schedule.html %}
